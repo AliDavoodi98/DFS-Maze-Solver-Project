@@ -4,6 +4,8 @@
 
 This DFS (Depth-First Search) Maze Solver Project is designed to help visualize the process of depth-first search in exploring paths within a given matrix. It highlights the current cell being visited and updates the matrix's state at each step, providing insights into how the DFS algorithm explores all possible paths from each starting cell.
 
+![IMG_0723-ezgif com-video-to-gif-converter](https://github.com/AliDavoodi98/DFS-Maze-Solver-Project/assets/95263975/203be2fa-2ac6-4db0-bb0d-d7bcade64182)
+
 ## Features
 
 - Visualization of the DFS exploration process in real-time.
