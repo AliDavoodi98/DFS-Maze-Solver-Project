@@ -58,7 +58,7 @@ Contributions to the DFS Visualization Script are welcome. To contribute:
 
 License
 
-This project is licensed under the  License - see the LICENSE file for details.
+This project is licensed under the AGPL-3.0 license - see the LICENSE file for details.
 Contact
 
 If you have any questions or feedback, please contact me on [LinkedIn](https://www.linkedin.com/in/ali-davoodi-moghadam).
