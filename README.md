@@ -16,5 +16,49 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.6 or higher installed on your system.
 - `matplotlib` library installed for Python. This can be installed using `pip`:
 
+  ```sh
+  pip install matplotlib  
+  ```
+
+## Installation
+
+To install the DFS Visualization Script, follow these steps:
+
+  1. Clone the repository to your local machine:
+  ```sh
+  git clone https://github.com/yourusername/dfs-visualization-script.git
+  ```
+  
+  2. Navigate to the cloned repository:
+
+  ```sh
+  cd dfs-visualization-script
+  ```
+
+  No additional installation steps are required as the script runs directly with Python.
+  
+## Usage
+
+To use the DFS Visualization Script, run the following command in the terminal:
+
 ```sh
-pip install matplotlib
+python dfs_visualization_script.py --matrix "[[0, 1, 0, 0], [1, 1, 0, 0], [0, 0, 0, 0], [0, 0, 0, 1]]"
+```
+
+Replace the matrix argument with your matrix, keeping the format as shown. The script will visualize the DFS process on the given matrix and print the maximum path length found.
+Contributing
+
+Contributions to the DFS Visualization Script are welcome. To contribute:
+
+  1. Fork the repository.
+  2. Create a new branch ```git checkout -b feature/AmazingFeature```.
+  3. Commit your changes ```git commit -m 'Add some AmazingFeature'```.
+  4. Push to the branch ```git push origin feature/AmazingFeature```.
+  5. Open a pull request.
+
+License
+
+This project is licensed under the  License - see the LICENSE file for details.
+Contact
+
+If you have any questions or feedback, please contact me on [LinkedIn](https://www.linkedin.com/in/ali-davoodi-moghadam).
